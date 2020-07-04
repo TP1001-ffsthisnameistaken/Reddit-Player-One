@@ -53,6 +53,8 @@ List all of the steps required to set up the game before players actually start 
 Special Situations  
 List any special modes or situations that are not the normal part of progress (such as landing in jail in the game Monopoly)
 
+Invasion = Aliens/Other Enemies begin to attack, all players recieve a temporary special gun in front of them and need to collaboratively destroy aliens for a period of 2 minutes. Coins are awarded for kills and enemies shoot lasers that take players coins when a player is hit.
+
 Resolution  
 There is no end to the game
 
@@ -74,11 +76,18 @@ Reward: What does the player receive or accomplish for performing the action. (e
 
 Walking:
 Joystick? Swing arms? Teleport?  
+Walking should have a smooth locomotion on the left thumbstick and when clicked in a teleport is activated.
 
 Enter Mini game:
 How?
+Portals
 
-
+Open Inventory:
+To store and take items in a limited bag similar to the inventory in TWD Saints and Sinners
+This can be linked to all areas for example store weapons for combat
+This should be an important accesible system so the easier the better
+On a button press eg A button on Oculus touch, the bag shows up in front of the player
+You should be able to upgrade the bag with additional resources to increase capacity and change its look 
 
 # Resources
 
